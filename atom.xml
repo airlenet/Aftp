@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AirleNet Aftp</title>
+  
+  <subtitle>Aftp客户端是一个快速可靠的、跨平台的SMB,FTP,FTPS和SFTP客户端。具有图形用户界面(GUI)和很多有用的特性</subtitle>
+  <link href="https://airlenet.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://airlenet.github.io/"/>
+  <updated>2020-09-16T08:52:39.935Z</updated>
+  <id>https://airlenet.github.io/</id>
+  
+  <author>
+    <name>AirleNet</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Aftp 2020.10 版本发布</title>
+    <link href="https://airlenet.github.io/2020/09/16/release-aftp-2020-10/"/>
+    <id>https://airlenet.github.io/2020/09/16/release-aftp-2020-10/</id>
+    <published>2020-09-16T08:49:21.000Z</published>
+    <updated>2020-09-16T08:52:39.935Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Aftp-2020-10"><a href="#Aftp-2020-10" class="headerlink" title="Aftp 2020.10"></a>Aftp 2020.10</h2><p>Aftp是一个快速可靠的、跨平台的FTP和SFTP客户端。具有图形用户界面(GUI)和很多有用的特性</p><h4 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h4><p>易于使用</p><p>支持FTP协议，支持SSH文件传输协议(SFTP)</p><p>跨平台。在 Windows, Linux, *BSD, Mac OS X 和其它平台下运行 more</p><p>支持IPv6协议</p><p>多标签用户界面</p><p>传输队列管理</p><h4 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Aftp-2020-10&quot;&gt;&lt;a href=&quot;#Aftp-2020-10&quot; class=&quot;headerlink&quot; title=&quot;Aftp 2020.10&quot;&gt;&lt;/a&gt;Aftp 2020.10&lt;/h2&gt;&lt;p&gt;Aftp是一个快速可靠的、跨平台的FTP和SFTP客户端。具</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://airlenet.github.io/2020/09/15/hello-world/"/>
+    <id>https://airlenet.github.io/2020/09/15/hello-world/</id>
+    <published>2020-09-15T08:16:08.297Z</published>
+    <updated>2020-09-15T08:16:08.297Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
